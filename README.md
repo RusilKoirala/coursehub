@@ -1,6 +1,6 @@
 # <img src="frontend/public/coursehub.svg" alt="CourseHub Logo" width="80" height="80" align="left" />
 
-# 📚 CourseHub
+#  CourseHub
 
 [![GitHub repo](https://img.shields.io/github/repo-size/rusilkoirala/coursehub?color=blue&label=Repo%20Size)](https://github.com/rusilkoirala/coursehub)
 [![Open Issues](https://img.shields.io/github/issues/rusilkoirala/coursehub?color=yellow)](https://github.com/rusilkoirala/coursehub/issues)
@@ -11,29 +11,29 @@ CourseHub is a full-stack project for managing and sharing online courses. It de
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 CourseHub is built with **Express.js** (backend) and **React** (frontend). It features user authentication, course management, lesson organization, and secure video/image uploads using ImageKit. The backend exposes RESTful APIs for all major operations.
 
 ---
 
-## ✨ Features
-- 👤 User registration and login (JWT authentication)
-- 🔒 Protected routes and role-based access (admin/user)
-- 📚 Course CRUD (admin only)
-- 📝 Course enrollment (no payment required)
-- 🎬 Lesson management (video/content per course)
-- 🖼️ ImageKit integration for secure uploads
-- 🛡️ Secure cookies, CORS, Helmet for security
+##  Features
+-  User registration and login (JWT authentication)
+-  Protected routes and role-based access (admin/user)
+-  Course CRUD (admin only)
+-  Course enrollment (no payment required)
+-  Lesson management (video/content per course)
+-  ImageKit integration for secure uploads
+-  Secure cookies, CORS, Helmet for security
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Backend**: Node.js, Express.js, MongoDB (Mongoose), JWT, Helmet, CORS, Cookie-Parser, ImageKit SDK
 - **Frontend**: React, Vite, Tailwind CSS
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 ```
 backend/
   config/
@@ -92,15 +92,10 @@ frontend/
 
 ---
 
-## 🗺️ Roadmap / TODOs
-- [ ] User profile editing
-- [ ] Lesson progress tracking
-- [ ] Comments/discussions for courses
-- [ ] More API docs/examples
 
 ---
 
-## 💡 Open Source & Learning
+##  Open Source & Learning
 This project is open-source and learning-oriented. Feel free to use, fork, or contribute!
 
 ---
